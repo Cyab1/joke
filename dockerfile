@@ -17,4 +17,4 @@ EXPOSE 80
 ENV NAME World
 
 # Run inventory.py when the container launches
-CMD ["python", "jokes,py"]
+CMD ["python", "jokes.py"]
